@@ -26,4 +26,5 @@ It helps in extracting, analyzing, and generating reports from Android devices.
 ## 🚀 How to Run
 
 ```bash
+pip install -r requirements.txt
 python main.py
